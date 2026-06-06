@@ -1,0 +1,11 @@
+.card {
+    margin-bottom: 20px;
+}
+
+.hire-badge {
+    margin-top: 10px;
+}
+
+.table-view .card {
+    display: none;
+}
